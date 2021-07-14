@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/GUI/UnitOfWork.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/GUI/DlgRegistroVentas.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/repositories/ClientesRepository.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/repositories/ProveedoresRepository.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/GUI/DlgClientes.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/exceptions/PersistenciaException.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/repositories/VentasRepository.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/META-INF/persistence.xml</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/repositories/CategoriasRepository.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/GUI/DlgProveedores.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/GUI/DlgBusquedaVentas.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/exceptions/DAOException.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/GUI/FrmPuntoVenta.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/repositories/ProductosVentaRepository.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/repositories/ProductosRepository.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/POJOS/Proveedor.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/POJOS/ProductosVenta.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/POJOS/Categoria.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/POJOS/Venta.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/GUI/DlgCategorias.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/pruebas/prueba1.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/POJOS/Cliente.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/POJOS/Producto.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/build/generated-sources/ap-source-output/com/POJOS/Categoria_.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/repositories/RepositoryBase.java</file>
+            <file>file:/D:/proyectosJava/puntoVenta/src/com/GUI/DlgProductos.java</file>
+        </group>
+    </open-files>
+</project-private>
