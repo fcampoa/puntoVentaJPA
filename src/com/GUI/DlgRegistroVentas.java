@@ -134,7 +134,7 @@ public class DlgRegistroVentas extends javax.swing.JDialog {
         if ("".equals(nombre)) {
             listaProductos = this.unitOfWork.productosRepository().lista();
         } else {
-            listaProductos = unitOfWork.productosRepository().buscarNombre(nombre);
+            listaProductos = this.unitOfWork.productosRepository().buscarNombre(nombre);
         }
         cargarProductos();
     }
